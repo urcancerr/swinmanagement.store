@@ -1,0 +1,3 @@
+# Redirect root ke /dist/
+RewriteEngine On
+RewriteRule ^$ /dist/ [L]
